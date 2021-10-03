@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e1b9430-923c-4166-b167-c7fd1bf92346" name="Changes" comment="EX 02 en classe">
+      <change afterPath="$PROJECT_DIR$/../Serie02/.idea/Serie02Examen-20210924T163946Z-001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie02/Controller/Page1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie02/Controller/Page2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie02/Views/Footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie02/Views/Header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie02/Views/css/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie02/Views/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie02/Views/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie02/Views/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie02/Views/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie02/Views/images/5.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie02/Views/images/Italie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie02/Views/images/belgique.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie02/Views/page1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie02/Views/page2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie02/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie03/Controller/Page1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie03/Controller/Page2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie03/Controller/Page3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie03/Views/Footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie03/Views/Header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie03/Views/css/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie03/Views/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie03/Views/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie03/Views/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie03/Views/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie03/Views/images/5.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie03/Views/images/Italie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie03/Views/images/belgique.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie03/Views/page1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie03/Views/page2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie03/Views/page3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02/Serie03/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie02Examen-20210924T163946Z-001.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Controller/Page1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Controller/Page2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Serie02/Controller/Page1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Serie02/Controller/Page2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Serie02/Views/Footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Serie02/Views/Header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Serie02/Views/css/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Serie02/Views/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Serie02/Views/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Serie02/Views/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Serie02/Views/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Serie02/Views/images/5.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Serie02/Views/images/Italie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Serie02/Views/images/belgique.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Serie02/Views/page1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Serie02/Views/page2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Serie02/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Views/Footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Views/Header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Views/css/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Views/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Views/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Views/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Views/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Views/images/5.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Views/images/Italie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Views/images/belgique.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Views/page1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/Views/page2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Serie03/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../série01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../série01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../série01/.idea/série1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../série01/View/Footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../série01/View/Header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../série01/View/css/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../série01/View/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../série01/View/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../série01/View/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../série01/View/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../série01/View/images/5.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../série01/View/images/Italie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../série01/View/images/belgique.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../série01/View/page1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../série01/View/page2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../série01/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/.idea/test1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/test.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1yarNT12s589dibhKG79UhJjVtT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Serie02/Serie03" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projets\Php\Serie02\Serie03" />
+      <recent name="D:\Projets\Php" />
+      <recent name="D:\Projets\Php\Serie02Examen-20210924T163946Z-001\Serie02\Views" />
+      <recent name="D:\Projets\Php\série1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projets\Php\Serie02\Serie03\Views" />
+      <recent name="D:\Projets\Php\série1\View" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../Serie02/Serie02/index.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e1b9430-923c-4166-b167-c7fd1bf92346" name="Changes" comment="" />
+      <created>1632500500310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632500500310</updated>
+      <workItem from="1632500502773" duration="5409000" />
+      <workItem from="1632849448948" duration="1228000" />
+      <workItem from="1633102432789" duration="9343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="EX 02 en classe" />
+    <option name="LAST_COMMIT_MESSAGE" value="EX 02 en classe" />
+  </component>
+</project>
