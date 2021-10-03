@@ -26,3 +26,12 @@ h2{
 .invisible {
   visibility: hidden;
 }
+table,td,tr,th {
+    border: 1px solid black;
+}
+.blue {
+    color:blue;
+}
+.red {
+    color: red;
+}
