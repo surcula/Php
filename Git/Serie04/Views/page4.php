@@ -37,7 +37,7 @@
                                 foreach ($jours as $key=>$value){
 
                                     if ( ($i % 2) == 0) {
-                                    echo '<tr class="Greys"><td>'.$value.'</td></tr>';
+                                    echo '<tr class="Gray"><td>'.$value.'</td></tr>';
                                     }else {
                                         echo '<tr><td>'.$value.'</td></tr>';
                                     }
@@ -69,9 +69,9 @@
                         if ( ($i % 2) == 0) {
                             if ($value != 'samedi' && $value != 'dimanche')
                             {
-                                echo '<tr class="Greys"><td>'.$value.'</td><td>'.$etat[0].'</td></tr>';
+                                echo '<tr class="Gray"><td>'.$value.'</td><td>'.$etat[0].'</td></tr>';
                             }else {
-                                echo '<tr class="Greys"><td>'.$value.'</td><td>'.$etat[1].'</td></tr>';
+                                echo '<tr class="Gray"><td>'.$value.'</td><td>'.$etat[1].'</td></tr>';
                             }
 
                         }else {
@@ -108,9 +108,9 @@
 
                                     if (($i % 2) == 0) {
                                         if ($value != 'samedi' && $value != 'dimanche') {
-                                            echo '<tr class="Greys"><td>' . $value . '</td><td>' . $etat[0] . '</td></tr>';
+                                            echo '<tr class="Gray"><td>' . $value . '</td><td>' . $etat[0] . '</td></tr>';
                                         } else {
-                                            echo '<tr class="Greys"><td>' . $value . '</td><td>' . $etat[1] . '</td></tr>';
+                                            echo '<tr class="Gray"><td>' . $value . '</td><td>' . $etat[1] . '</td></tr>';
                                         }
 
                                     } else {
