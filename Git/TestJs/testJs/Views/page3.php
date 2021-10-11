@@ -20,13 +20,13 @@
                 </article>
                 <article class="col-sm-6">
                     <h2>Exercices 2</h2>
-                    <ol>
-                    <?php
-                    for ($i=0;$i<10;$i++){
-                        echo '<li>Ceci est la ligne n° '.($i+1).'</li>';
-                    }
-                    ?>
-                    </ol>
+                    <ul>
+                        <?php
+                            for ($i=0;$i<10;$i++){
+                                echo '<li>Ceci est la ligne n° '.($i+1).'</li>';
+                            }
+                        ?>
+                    </ul>
                 </article>
                 <article class="col-sm-6">
                     <h2>Exercices 3</h2>
