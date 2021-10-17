@@ -25,7 +25,11 @@ function changerTexte() {
 }
 
 
-
+/* Exercice 2 : créer un chrono  (3 boutons : start stop et reset
+* Quand on clique sur start, ça lance le chrono et ça met le bouton en disabled
+* Quand on clique sur stop, ça stop le chrono et le bouton start est réutilisable
+* Quand on clique sur reset, le chrono retombe à zéro. Il faut recliquer sur start pour le relancer.
+* */
 function incrementer(){
     microsecondes++;
     if (microsecondes >= 100) {
