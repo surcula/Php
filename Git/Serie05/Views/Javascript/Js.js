@@ -55,7 +55,7 @@ function start(){
     autoIncrementer();
 }
 function autoIncrementer(){
-    tick = setTimeout(startChrono,1)
+    tick = setTimeout(startChrono,1);
 }
 function stopChrono(){
     var button = document.getElementById("start");
