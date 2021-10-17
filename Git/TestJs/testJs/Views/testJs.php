@@ -10,7 +10,7 @@
 
     <div class="row" >
         <section class="col-lg-10">
-            <div class="row" )">
+            <div class="row" onload="setInterval(afficherDate(),1000)">
                 <article class="col-sm-6">
                     <h1>Un site avec du Javascript</h1>
                     <script type="text/javascript" src="../Views/Javascript/script.js">

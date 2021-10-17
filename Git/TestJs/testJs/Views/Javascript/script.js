@@ -15,16 +15,19 @@ var total = (prixlivrehtc * quantite) * 1.21;
 alert("Voici le prix total : " + total);*/
 
 function afficherDate() {
-
     var day = Date.prototype.getDay()
     var dayChiffre = Date.prototype.getDate();
     var month = Date.prototype.month();
+    document.writeln("" + day + "/" + dayChiffre + "/" + month);
+    afficherHeure();
+}
+function afficherHeure(){
     var hours = Date.prototype.getHours();
     var minutes = Date.prototype.getMinutes();
     var seconds = Date.prototype.getSeconds();
-    document.writeln("" + day + "/" + dayChiffre + "/" + month);
-    document.title = hours + "h" + minutes + ":" + seconds;
-    setInterval(afficherDate(),1000);
+    var tout = hours + "h" + minutes + ":" + seconds
+    document.title = tout;
+    setInterval(afficherHeure(),1000);
 }
-setInterval(afficherDate(),1000);
+
 
